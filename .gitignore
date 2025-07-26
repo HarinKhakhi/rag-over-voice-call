@@ -1,0 +1,5 @@
+.venv
+.env
+docs
+chat-engine-storage
+__pycache__
